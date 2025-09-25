@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "689659567966",
+    "project_id": "elevate-health-cc705",
+    "storage_bucket": "elevate-health-cc705.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689659567966:android:055a9799059a64ac4c39cf",
+        "android_client_info": {
+          "package_name": "com.example.elevate_health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlYVnWR9atzPzVDBlFcCPrhY1q4FsQdq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
